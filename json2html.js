@@ -2,7 +2,7 @@
 
 // Export the json2html function as default
 export default function json2html(data) {
-  // Start building the HTML table as a string with correct data-user attribute
+  // Start building the HTML table as a string with the correct data-user attribute
   let html = `<table data-user="saimounikgupta346@gmail.com">`;
 
   // Define the header row
